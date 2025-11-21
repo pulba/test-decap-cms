@@ -5,7 +5,7 @@ description: Here is a sample of some basic Markdown syntax that can be used
 pubDate: Jun 19 2024
 heroImage: ../../assets/blog-placeholder-1.jpg
 date: 2025-11-21T20:41:00.000+07:00
-thumbnail: /assets/model-mockup-1080x1920-8-.png
+thumbnail: /assets/img_2344.jpg
 rating: 5
 ---
 
