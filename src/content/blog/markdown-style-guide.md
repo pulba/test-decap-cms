@@ -3,7 +3,7 @@ title: "Choosing a Backend for Decap CMS"
 description: "Penjelasan ringkas mengenai opsi backend untuk Decap CMS."
 pubDate: "2025-01-01"
 updatedDate: "2025-01-01"
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
